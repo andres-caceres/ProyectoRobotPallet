@@ -5,18 +5,20 @@ Proyecto desarrollado como parte del curso de Proyecto de Diseño Mecatrónico (
 ## Objetivo
 
 Diseño de un vehículo autoguiado con la capacidad de ubicación y carga de productos a través de un pallet para optimizar los procesos de almacenaje, preparación y entrega de pedidos.
+<br>
 
-## Docentes:
-
-Franciso Cuellar
-Jhon Portella
+## Docentes
+Franciso Cuellar<br> 
+Jhon Portella <br>
 
 ## Equipo
 
-Abel Manzanares
-Andreé Hiller
-Andrés Cáceres
-Neil Ninapaytan
-Sebastián Canchis
+* Abel Manzanares <br> 
+* Andreé Hiller <br> 
+* Andrés Cáceres <br> 
+* Neil Ninapaytan <br> 
+* Sebastián Canchis <br> 
 
-*Lima, 6 de septiembre de 2021*
+<br> 
+
+*Lima, 6 de octubre de 2021*
